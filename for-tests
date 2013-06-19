@@ -7,5 +7,14 @@ commit tres
 ejemplo dos 
 =============usando branch master y bugFix ===========  con git merge
 commit para bugFix
+<<<<<<< HEAD
 commit para master
 nueva line
+=======
+<<<<<<< HEAD
+New Line For bugFix
+=======
+commit para master
+nueva line
+>>>>>>> master
+>>>>>>> bugFix
