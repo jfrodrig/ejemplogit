@@ -3,3 +3,7 @@ ejemplo uno
 commit uno 
 commit dos 
 commit tres
+=======
+ejemplo dos 
+=============usando branch master y bugFix ===========  con git merge
+commit para bugFix
